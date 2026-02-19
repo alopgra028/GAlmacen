@@ -23,7 +23,8 @@
           <a href="Ayuda/Manual-PDF.pdf" target="_blank"><b>PDF</b></a></h3>
         </div>
       </div>
-	  
+      <div class="row">
+        <h1> Este texto es para probar cambios</h1>
     </div>
   </div>
 
